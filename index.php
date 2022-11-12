@@ -22,4 +22,12 @@ echo $altura.'<br>';
 echo $fumante.'<br>';
 echo 'Olá '.$nome.', você tem '.$idade.' anos';
 
+echo'<hr>';
+echo gettype($nome).'<br>';
+echo gettype($idade).'<br>';
+echo gettype($altura).'<br>';
+echo gettype($fumante).'<br>';
+$altura = '1.75';
+echo gettype($altura).'<br>';
+
 ?>

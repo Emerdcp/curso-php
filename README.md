@@ -42,3 +42,10 @@ Todo arquivo PHP te´ra a extesão .php
  - O nome de uma variável deve ser segnificativo de acordo com o seu valor, Exemplo: para um variável que vai armazenar a idade de uma pessoa eu colocar o nome da variável de $idade.
  - No PHP toda variável inicia com $.
  Não utilzia caracters especiais, espaços ou acentos para nome de variáveis de forma simples. Exemplo: ao invés de endereço para o nome de uma variável utilize $endereco sem o 'ç'.
+
+ ### Tipos de dados
+ - Os valores em PHP podem ser divididos entre os tipos:
+ - `string:` todo valor que estiver entre aspas é uma string, ou seja um texto. Exemplo: 'Emerson'
+ - `integer:` todo número interio. Exemplo: 36
+ - `float ou double:` todo número decimal. Exemplo: 1.75
+ - `boolean:` valor de verdadeiro (true) ou falso (false)
