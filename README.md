@@ -45,7 +45,15 @@ Todo arquivo PHP te´ra a extesão .php
 
  ### Tipos de dados
  - Os valores em PHP podem ser divididos entre os tipos:
- - `string:` todo valor que estiver entre aspas é uma string, ou seja um texto. Exemplo: 'Emerson'
- - `integer:` todo número interio. Exemplo: 36
- - `float ou double:` todo número decimal. Exemplo: 1.75
- - `boolean:` valor de verdadeiro (true) ou falso (false)
+   - `string:` todo valor que estiver entre aspas é uma string, ou seja um texto. Exemplo: 'Emerson'
+   - `integer:` todo número interio. Exemplo: 36
+   - `float ou double:` todo número decimal. Exemplo: 1.75
+   - `boolean:` valor de verdadeiro (true) ou falso (false)
+
+ ### Operadores aritmétricos
+ - + : adição
+ - - : operador de subtração
+ - * : operador de multiplicação
+ - / : operador de divisão 
+ - % : resto da divisão, ou operador de módulo
+ - **: exponenciação
