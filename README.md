@@ -35,3 +35,10 @@ Todo arquivo PHP te´ra a extesão .php
  - Os arquivos PHP precisam ser executados à partir do servidor, como se você estivesse acessando pela internet.
  - Para o XAMPP, o local aonde devemos colocar os arquivos é `c:\xampp\htdocs`. Exemplo `c:\xampp\htdocs\site\index.php`.
  - Para executar os arquivos php, precisamos requisitá-los à partir do navegador digitando `http://localhost`. Exemplo: `http://localhost/site/index.php`.
+
+ ### Variáveis
+ - Variável é um espaço na memória que damos um nome para armazenar algum valor.
+ - O PHP é case-sensitive, significa que ele diferencia maiúsculas de minúsculas, ou seja, Nome é diferente do nome.
+ - O nome de uma variável deve ser segnificativo de acordo com o seu valor, Exemplo: para um variável que vai armazenar a idade de uma pessoa eu colocar o nome da variável de $idade.
+ - No PHP toda variável inicia com $.
+ Não utilzia caracters especiais, espaços ou acentos para nome de variáveis de forma simples. Exemplo: ao invés de endereço para o nome de uma variável utilize $endereco sem o 'ç'.
